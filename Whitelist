@@ -2,6 +2,9 @@
 1.0.0.1
 https://connectivity.office.com/
 www.msftconnecttest.com
+dns.msftncsi.com
+131.107.255.255
+ipv6.msftconnecttest.com
 8.8.4.4
 8.8.8.8
 dns.google
