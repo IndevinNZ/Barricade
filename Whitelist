@@ -5,6 +5,8 @@ create.kahoot.it
 play.kahoot.it
 test.kahoot.it
 media.kahoot.it
+wss://kahoot.it/cometd
+wss://play.kahoot.it/cometd
 kahoot.it
 www.msftconnecttest.com
 dns.msftncsi.com
